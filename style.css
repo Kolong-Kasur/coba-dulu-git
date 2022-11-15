@@ -1,8 +1,23 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(26, 26, 26);
 }
 
 h1 {
-    color: lightgreen;
-    margin-left: 20px;
+    color: white;
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#head-section-1 {
+    text-align: left;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+p {
+    margin: 10px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
